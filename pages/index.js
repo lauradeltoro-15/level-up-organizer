@@ -3,7 +3,7 @@ import styles from '../styles/Home.module.css'
 import styled from 'styled-components';
 
 const Title = styled.h1`
-  color: ${({ theme }) => theme.colors.main}
+  color: ${({ theme }) => theme.colors.ui3}
 `;
 
 export default function Home() {
